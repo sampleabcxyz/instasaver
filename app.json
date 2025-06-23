@@ -10,10 +10,10 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.sampleabcxyz.instasaver"   // ✅ Required for iOS builds
+      "bundleIdentifier": "com.sampleabcxyz.instasaver"
     },
     "android": {
-      "package": "com.sampleabcxyz.instasaver",            // ✅ Required for Android builds
+      "package": "com.sampleabcxyz.instasaver",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
